@@ -1,0 +1,25 @@
+{
+  "etudiants": [
+    {
+      "id": "521",
+      "nom": "mahmoud",
+      "class": "1 info",
+      "completed": true
+    },
+    {
+      "id": "632",
+      "nom": "ali",
+      "class": "4 civil",
+      "completed": true
+    },
+    {
+      "etudiant": {
+        "id": "987",
+        "nom": "safwen",
+        "class": "5 tech",
+        "completed": true
+      },
+      "id": "987"
+    }
+  ]
+}
